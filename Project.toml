@@ -1,0 +1,13 @@
+name = "myghpagesTesting"
+uuid = "048a23f1-aa7c-4ed6-93ab-37d2dc6fc89f"
+authors = ["Charis P. Michelakis <ch.p.michelakis@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
