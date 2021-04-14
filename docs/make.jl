@@ -15,6 +15,8 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "Second" => "otherpage.md",
+        "Lorem ipsum" => "otherotherpage.md"
     ],
 )
 
