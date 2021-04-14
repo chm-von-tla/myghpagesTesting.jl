@@ -1,6 +1,6 @@
 using myghpagesTesting
 using Test
 
-@testset "myghpagesTesting.jl" begin
-    # Write your tests here.
+@testset "tests" begin
+    @test 2+2 == 4
 end

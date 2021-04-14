@@ -1,5 +1,5 @@
 module myghpagesTesting
 
-# Write your package code here.
+f(arg1, arg2) = arg1 + arg2
 
 end
